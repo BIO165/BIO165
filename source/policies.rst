@@ -35,6 +35,7 @@ Grading will be based on a point system. In total, 400 points can be obtained, 2
 .. list-table:: Grading
     :widths: 20,40,40
     :header-rows: 1
+	
     * - Grade
       - Percentage of points
       - Points

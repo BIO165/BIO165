@@ -39,12 +39,12 @@ Course content
       - 1/23 and 1/25 2024
       - Stochastic in biology - Brownian motion, stochastic processes, and the law of large numbers
       - Introduction to probability and statistical considerations of uncertainty. 
-  	  - 2/1
+      - 2/1
     * - 4
       - 1/30 and 2/1 2024
       - Cellular resource allocation and growth
-  	  - Ressource allocation models
-  	  - 2/8
+      - Ressource allocation models
+      - 2/8
     * - 5
       - 2/6 and 2/8 2024
       - Gene regulation, an overview by numbers
@@ -63,18 +63,18 @@ Course content
     * - 8
       - 2/27 and 2/29 2024
       - tbd
-  	  - tbd
-  	  - no homework 
+      - tbd
+      - no homework 
     * - 9
       - 3/5 and 3/7 2024
       - Project phase
-  	  - Project phase
-  	  - no homework  
+      - Project phase
+      - no homework  
     * - 10
       - 3/12 and 3/14 2024
       - Project phase
-  	  - Presentation of project
-  	  - Project submission by the end of Tuesday, 3/12. 
+      - Presentation of project
+      - Project submission by the end of Tuesday, 3/12. 
 
 	 
 	  
