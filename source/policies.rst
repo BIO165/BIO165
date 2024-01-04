@@ -1,25 +1,6 @@
 Course Policies
 ===============
 
-Prerequisite: 
---------------
-MATH 51 or MATH 19, 20,21, or a similar math course. Recommended: courses dealing with microbiology
-molecular biology/biochemistry/genetics courses (e.g. BIO 82 or
-83). Enrollment via application. 
-
-Computation equipment
-----------
-We will use Python for data analysis and modeling. Please bring your own laptop to the dry lab classes. Let us know as soon as possible if you don't have a laptop that you can use for the course, so that we can make arrangements for you!
-
-
-Homework
---------
-Homework ....
-There are seven homeworks. You will start with these homeworks during the dry lab sessions. d
-
-During the last two weeks, you will analyze in small teams a biological problem of your own interest.
-
-
 Enrollment
 ----------
 Enrollment onfly after aplication. Application via email to the instructor are by completion of a google form. 
