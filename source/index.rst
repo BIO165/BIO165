@@ -13,10 +13,9 @@ Jonas Cremer and Shaili Mathur, January 2024
    :maxdepth: 1
    :caption: Lessons
    :hidden:
-   
+
    lessons/lesson_1.ipynb
    lessons/lesson_2.ipynb
-
 
 .. toctree::
    :maxdepth: 1
