@@ -19,11 +19,20 @@ To be determined after polling availability of all students and instructors.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Lessons
+   :caption: Lessons and Ressources
    :hidden:
 
    lessons/lesson_1.ipynb
    lessons/lesson_2.ipynb
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Homeworks
+   :hidden:
+    
+   problem_sets/problem_set_1
+
 
 .. toctree::
    :maxdepth: 1
@@ -35,15 +44,10 @@ To be determined after polling availability of all students and instructors.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Homeworks
+   :caption: Projects
    :hidden:
-    
-   problem_sets/problem_set_1
-
-
-
-.. note::
-    This website was generated using a template provided by Griffin Chure for building academic course (or research) websites. Core of the script is `Sphinx <https://www.sphinx-doc.org/en/master/>`, a documentation generator using Python. Many of our course materials are developed using Jupyter notebooks, making documentation generation a great way to make them searchable without worrying about configuring HTML output and integration with other hosting solutions. You can setup similar sites fairly easily, for example for presenting during the presentation phase of this course, or when writing a documentation of your research. 
+   
+   projects
 
 .. note::
 	To make this site a useful resource, we happily consider suggestions to link further materials.
