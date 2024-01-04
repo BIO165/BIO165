@@ -19,7 +19,7 @@ We will use this website to present material and links. This site will continue 
 .. toctree::
    :maxdepth: 1
    :caption: Syllabus & Policies
-   :hidden:
+
    syllabus
    policies
 
@@ -27,7 +27,6 @@ We will use this website to present material and links. This site will continue 
    :maxdepth: 1
    :caption: Homeworks
    :hidden: 
-
    problem_sets/problem_set_1
 
 
