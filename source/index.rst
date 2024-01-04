@@ -1,4 +1,7 @@
+-------------------------
 
+Welcome
+=======
 Welcome to the website of the BIO65 course. 
 
 We will use this website to present material and links. This site will continue to be available after completion of this course. 
