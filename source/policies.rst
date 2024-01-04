@@ -1,5 +1,5 @@
 Course Policies
----------------
+===============
 
 Prerequisite: 
 --------------

@@ -1,6 +1,4 @@
 
-.. note::
-    This page is generated using Restructured Text, and not a Jupyter Notebook.
 .. `ReStructured-Text <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_ 
 
 
@@ -66,21 +64,21 @@ Course content
 	  
     * - 7
       - 2/20 and 2/22 2024
-      - --
-	  - --
+      - tbd
+	  - tbd
   	  - 2/29
 	  
     * - 8
       - 2/27 and 2/29 2024
-      - --
-  	  - --
-  	  - --
+      - tbd
+  	  - tbd
+  	  - no homework
 	  
     * - 9
       - 3/5 and 3/7 2024
       - Project phase
   	  - Project phase
-  	  - --
+  	  - no homework
 	  
     * - 10
       - 3/12 and 3/14 2024
