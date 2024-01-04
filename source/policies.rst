@@ -7,9 +7,10 @@ MATH 51 or MATH 19, 20,21, or a similar math course. Recommended: courses dealin
 molecular biology/biochemistry/genetics courses (e.g. BIO 82 or
 83). Enrollment via application. 
 
-Equipment
+Computation equipment
 ----------
-We will use Python for data analysis and modeling. Please bring your own laptop to the dry lab classes. Please let the instructors know if you do not have a laptop available. 
+We will use Python for data analysis and modeling. Please bring your own laptop to the dry lab classes. Let us know as soon as possible if you don't have a laptop that you can use for the course, so that we can make arrangements for you!
+
 
 Homework
 --------
@@ -58,13 +59,16 @@ Grading will be based on a point system. In total, 400 points can be obtained, 2
       - 70-78%
       - 280-311
     * - D
+      - 60-70%
+      - 240-279
+    * - no credit
       - <60%
-      - <280
+      - <240
 	  
   
 Homework grading
 ----------------
-Each of the seven homework problem sets will be graded with a maximum of 40 pts per problem set. The set with the least points will not be included in the grade, yielding a maximum of 240 pt for completion of all homework. Please submit the homework on time. There is a 10% penalty per day for late submission. 
+Each of the seven homework problem sets will be graded with a maximum of 40 pts to accomplish per problem set. The set with the least points will not be included in the grade calculation, yielding a maximum of 240 pt for completion of all homework. Please submit the homework on time. There is a 10% penalty per day for late submission. 
 
 Project grading
 ----------------
