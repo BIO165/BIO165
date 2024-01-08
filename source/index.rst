@@ -23,16 +23,6 @@ To be determined after polling availability of all students and instructors.
    :hidden:
 
    lessons/lesson_1.ipynb
-   lessons/lesson_2.ipynb
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Homeworks
-   :hidden:
-    
-   problem_sets/problem_set_1
-
 
 .. toctree::
    :maxdepth: 1
