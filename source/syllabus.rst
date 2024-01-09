@@ -18,7 +18,7 @@ Prerequesites
 Recommended preliminary knowledge in math, coding, and cell biology is outlined here. Please contact the instructor if unsure about these requirements.
 
 
-:underline:`Math:` Mathematical considerations are a fundamental part of quantitative biology and
+Math: Mathematical considerations are a fundamental part of quantitative biology and
 rigorous data analyses. But these considerations do not always require advanced
 techniques in calculus and statistics and can simply start with a comparison of different
 numbers and the simple arithmetics and basic considerations of statistics. In this
@@ -29,7 +29,7 @@ inference statistics. These techniques will be introduced during the class and p
 in-depth knowledge is not required. More important than the previous knowledge is the
 interest and openness to learn the basic rationale and potential of these approaches.
 
-:underline:`Coding:` Python is used during the dry-lab classes to analyze data and run statistics.
+Coding: Python is used during the dry-lab classes to analyze data and run statistics.
 Some familiarity with coding is therefore helpful. However, we encourage students with
 all levels of coding experience to join. We will provide introductory Jupyter notebooks for
 students with little or no coding experience while students with more advanced
@@ -37,7 +37,7 @@ experience can work together to develop the provided modeling and data analysis
 scripts further and more deeply investigate the different biological questions we
 consider.
 
-:underline:`Molecular and cell biology:` This course considers different fundamental processes of
+Molecular and cell biology: This course considers different fundamental processes of
 biology. A basic knowledge of cell biology is therefore required but knowledge does not
 need to go beyond what is usually taught in undergraduate biology courses like BIO 82
 and BIO 83.
