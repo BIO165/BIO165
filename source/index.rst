@@ -15,13 +15,19 @@ Shaili Mathu email: shailim@stanford.edu
 
 Office hours
 ------------
-To be determined after polling availability of all students and instructors.
+
+Office hours take place weekly in the Clark Center or by appointment:
+
+Tuesdays 4 to 5pm (Jonas)
+Wednesdays 11am to noon (Shaili)
+
+Room: 3rd floor, West wing, door W3.3
 
 .. toctree::
    :maxdepth: 1
    :caption: Lessons and Ressources
    :hidden:
-
+   
    lessons/lesson_1.ipynb
 
 .. toctree::
