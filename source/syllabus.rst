@@ -13,6 +13,8 @@ Time & Location
 ---------------
 Tuesday and Thursday 9:00 to 10:50 am. All class meetings are in the Sapp Building, room 104.
 
+Office Hours: At Clark W3.3, 4-5pm on Tuesdays (Jonas) and 11am-12pm on Wednesdays (Shaili)
+
 Prerequesites
 --------------
 Recommended preliminary knowledge in math, coding, and cell biology is outlined here. Please contact the instructor if unsure about these requirements.
