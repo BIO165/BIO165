@@ -95,49 +95,49 @@ approaches covered.ents
       - 1/18
     * - 2
       - 1/16 and 1/18 2024
-      - Cellular biomass acumulation. Differential equations in a nut shell.
-      - Linear regression and solving differential equations.
+      - Cellular biomass acumulation. Differential equations in a nut shell
+      - Linear regression and numerical solutions for differential equations
       - 1/25 
     * - 3
       - 1/23 and 1/25 2024
-      - Stochastic in biology - Brownian motion, stochastic processes, and the law of large numbers
-      - Introduction to probability and statistical considerations of uncertainty. 
+      - Introduction to probability and stochastics in biology - Brownian motion, stochastic processes, and the law of large numbers
+      - Working with distributions in Python, maximum likelihood, statistical considerations of uncertainty, p-values, multiple hypothesis testing.
       - 2/1
     * - 4
       - 1/30 and 2/1 2024
-      - Cellular resource allocation and growth
-      - Ressource allocation models
+      - Guest lecture: Griffin Chure, "How to live forever (or make sure at least your science outlives you)"
+      - Stochastic processes in biology, Gillespie algorithm
       - 2/8
     * - 5
       - 2/6 and 2/8 2024
-      - From gene expression and transcription to translation, protein synthesis, and cell composition – a quantitative view of the central dogma.
-      - Analyzing the relation between transcriptomics and proteomics data sets. How to go from the observation of correlations to mechanism?
+      - Cellular resource allocation and growth
+      - Resource allocation and optimization 
       - 2/15
     * - 6
       - 2/13 and 2/15 2024
-      - Global regulators and the coordination of cellular processes
-      - Deterministic behavior in a stochastic world - an example with gene expression
+      - A quantative overview of the central dogma
+      - Lab on the central dogma; analysis of transcriptomics and proteomics data sets
       - 2/22
     * - 7
       - 2/20 and 2/22 2024
-      - Cellular behavior in changing conditions. Gene expression and tradeoffs in different environments.
-      - Analysis of experiments on bacterial growth in changing environments
+      - Global regulators & coordinators of cellular processes
+      - Modeling gene expression using dynamical systems
       - 2/29  
     * - 8
       - 2/27 and 2/29 2024
-      - tbd
-      - tbd
-      - no homework 
+      - Cellular behavior in changing environments; Gene expression and tradeoffs in different environments
+      - Analysis of bacterial growth in changing environments
+      - 3/7 
     * - 9
       - 3/5 and 3/7 2024
       - Project phase
-      - Project phase
-      - no homework  
+      - Spatial modeling dry lab
+      - 3/14  
     * - 10
       - 3/12 and 3/14 2024
-      - Project phase
+      - Introduction to image analysis (bonus dry lab, no homework)
       - Presentation of project
-      - Project submission by the end of Tuesday, 3/12. 
+      - Project submission by the end of Friday, 3/15. 
 
 	 
 Course structure
