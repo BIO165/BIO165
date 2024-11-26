@@ -25,10 +25,11 @@ Room: 3rd floor, West wing, door W3.3
 
 .. toctree::
    :maxdepth: 1
-   :caption: Lessons and Ressources
+   :caption: Lessons and Resources
    :hidden:
    
    lessons/lesson_1.ipynb
+   lessons/BIO165_Quantiative_Methods_in_Biology_resources.pdf
 
 .. toctree::
    :maxdepth: 1
