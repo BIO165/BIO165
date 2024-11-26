@@ -11,7 +11,7 @@ Instructors
 ------------
 Jonas Cremer email: jbcremer@stanford.edu
 
-Shaili Mathu email: shailim@stanford.edu
+Shaili Mathur email: shailim@stanford.edu
 
 Office hours
 ------------
